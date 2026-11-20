@@ -1,0 +1,7 @@
+Leu 12
+Ser 20
+Val 50
+Lys 52
+Phe 68
+Phe 73
+Phe 74

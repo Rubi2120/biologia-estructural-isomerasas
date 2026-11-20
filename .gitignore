@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Entornos y archivos temporales
+.env
+.env.*
+.venv/
+venv/
+*.log
+
+# Código externo de ProteinMPNN
+/ProteinMPNN/
+
+# Predicciones completas de AlphaFold3
+/af3_enzimas/
+
+# Archivos grandes de referencia
+/prai_uniprot.fasta
+
+# Archivos comprimidos
+*.zip
