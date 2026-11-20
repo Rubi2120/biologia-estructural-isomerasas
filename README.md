@@ -78,30 +78,63 @@ Higher sampling temperature increased sequence diversity and was associated with
 
 These observations are based on one backbone and one sampling seed per condition and should not be interpreted as general performance guarantees.
 
-## 3. AlphaFold3 evaluation
+## 3. AlphaFold3 Structural Evaluation
 
-Selected sequences are being submitted to AlphaFold3 for structural prediction.
+### Structural predictions and quality control
 
-Planned metrics:
+Ten LLM-generated isomerase sequences (five with low perplexity and five with high perplexity) were evaluated using AlphaFold3.
 
-- Mean pLDDT
-- pTM
-- Mean predicted aligned error (PAE)
-- RMSD after structural alignment, where a suitable reference structure is available
+All ten predictions were completed. The amino acid sequences recorded in the AlphaFold3 job requests were verified against the original input dataset, with 100% sequence identity.
 
-### Preliminary result: seq_240_low_3
+Structural confidence metrics were extracted from model 0:
 
-| Metric | Value |
-|---|---:|
-| Perplexity | 1.06 |
-| Length | 210 aa |
-| Mean atom pLDDT | 91.781 |
-| pTM | 0.93 |
-| Mean PAE | 2.819 Å |
+- **Mean pLDDT:** Atom-weighted average local confidence.
+- **pTM:** Predicted confidence in global protein topology.
+- **Mean PAE:** Average predicted aligned error across the full PAE matrix.
 
-Results correspond to AlphaFold3 model 0. Atom-level pLDDT filtering will be checked against the protein chain before final reporting.
+All ten CIF structures contained a single protein chain without nonprotein atomic records. Mean pLDDT values obtained from the CIF files agreed with the JSON values within 0.003 points.
 
-Structural confidence does not establish enzymatic activity, experimental stability or ligand binding.
+### AlphaFold3 results
+
+| Sequence | Perplexity group | Mean pLDDT | pTM | Mean PAE (Å) |
+|---|---|---:|---:|---:|
+| seq_240_low_3 | Low | 91.781 | 0.93 | 2.819 |
+| seq_287_low_3 | Low | 94.339 | 0.94 | 2.970 |
+| seq_1381_low_3 | Low | 93.034 | 0.94 | 2.464 |
+| seq_2_low_3 | Low | 92.089 | 0.93 | 2.908 |
+| seq_503_low_3 | Low | 89.362 | 0.91 | 3.967 |
+| seq_1543_high_3 | High | 66.653 | 0.68 | 15.269 |
+| seq_1358_high_3 | High | 58.342 | 0.44 | 20.330 |
+| seq_1095_high_3 | High | 46.862 | 0.35 | 20.811 |
+| seq_311_high_3 | High | 52.777 | 0.48 | 23.090 |
+| seq_2122_high_3 | High | 43.290 | 0.21 | 27.076 |
+
+### Comparison between perplexity groups
+
+| Metric (group mean) | Low perplexity | High perplexity |
+|---|---:|---:|
+| Mean pLDDT | 92.121 | 53.585 |
+| pTM | 0.930 | 0.432 |
+| Mean PAE (Å) | 3.026 | 21.315 |
+
+The five low-perplexity sequences consistently exhibited higher predicted structural confidence than the five high-perplexity sequences.
+
+These findings indicate an association between sequence perplexity and AlphaFold3 confidence within this small, deliberately selected dataset. They do not establish causality, enzymatic activity, experimental stability, or a general relationship across protein families.
+
+### Reproducibility
+
+The results are provided in:
+
+- `entregables/isomerasas_10_metricas_af3.csv`
+- `metricas_af3_enzimas.py`
+
+The complete AlphaFold3 output directories are retained locally and excluded from Git tracking.
+
+### Remaining structural analysis
+
+Structural alignment and RMSD analysis remain pending. An appropriate reference structure must be established before interpreting RMSD values for the generated isomerases.
+
+---
 
 ## 4. Repository contents
 
@@ -120,6 +153,10 @@ The external ProteinMPNN software repository and complete AlphaFold3 prediction 
 - UniProt: https://www.uniprot.org/
 - AlphaFold Server: https://alphafoldserver.com/
 
-## Status
+## Project Status
 
-Sequence selection and ProteinMPNN design are complete. Structural predictions and downstream structural comparisons are in progress.
+**Completed:** LLM sequence selection, natural sequence-length comparison, ProteinMPNN sequence generation and score analysis, AlphaFold3 predictions for all ten isomerases, sequence identity verification, and structural confidence metric extraction.
+
+**Pending:** Reference-based RMSD analysis, integration of binder AlphaFold3 results, and final presentation.
+
+*Updated: November 20, 2026.*
