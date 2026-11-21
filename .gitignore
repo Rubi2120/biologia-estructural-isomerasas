@@ -25,3 +25,5 @@ venv/
 
 # Archivos comprimidos
 *.zip
+data/
+data/
