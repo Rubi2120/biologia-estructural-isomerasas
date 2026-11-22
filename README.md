@@ -40,8 +40,7 @@ biologia-estructural-isomerasas/
     └── binder_223_fijos.pdb
     └── binder_patulin_223.pdb
     └── fixed_residues_binder_223.txt
-    └── naturales_1000.fasta
-    └── Genome_filtering_guide/       
+    └── naturales_1000.fasta       
 ```
 
 ## 1. LLM-generated isomerases
