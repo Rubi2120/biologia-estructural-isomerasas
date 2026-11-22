@@ -1,0 +1,54 @@
+>query
+PSPAAQAFLAALRAAGTLRAPTATAAQTEALAALLGVAPTHADPSEEVAAWLADPAARARFEALIAAVEASPFTAEPVAA
+>UniRef90_UPI001E5F1F89/263-303 [subseq from] Ig-like domain-containing protein n=1 Tax=Vibrio salinus TaxID=2899784 RepID=UPI001E5F1F89
+-------------------------------------VTVDIDPQEEIRAYIIDGAANTSTEASATALSADTEVQPPV--
+>UniRef90_UPI001E5F1F89/362-404 [subseq from] Ig-like domain-containing protein n=1 Tax=Vibrio salinus TaxID=2899784 RepID=UPI001E5F1F89
+-----------------------------------GSVTVNIDPTEEIRAYIVDGAGNTSTEASATALGADTEVQPPV--
+>UniRef90_UPI001E5F1F89/463-505 [subseq from] Ig-like domain-containing protein n=1 Tax=Vibrio salinus TaxID=2899784 RepID=UPI001E5F1F89
+-----------------------------------GSVTVNIDPTEEIRAYIVDGAGNTSTEASATALSADTEVQPPV--
+>UniRef90_UPI001E5F1F89/568-606 [subseq from] Ig-like domain-containing protein n=1 Tax=Vibrio salinus TaxID=2899784 RepID=UPI001E5F1F89
+---------------------------------------VDIDPQEEIRAYIVDGAGNTSTEASATALSADTEVQPPV--
+>UniRef90_UPI0011AB541C/66-119 [subseq from] hypothetical protein n=1 Tax=Tessaracoccus aquimaris TaxID=1332264 RepID=UPI0011AB541C
+------------DVAATITDP---DRQAEALAALVeALAPTDPDRAAKVAATITSPYRQA--EALTALAKA----------
+>UniRef90_UPI0011AB541C/180-241 [subseq from] hypothetical protein n=1 Tax=Tessaracoccus aquimaris TaxID=1332264 RepID=UPI0011AB541C
+-------------------TITSTYRQAEALAALVeALAPTDPDRAEEVAATITDPYRQA--EALTALVEAlaptDPDRAEEV--
+>UniRef90_UPI0011AB541C/219-261 [subseq from] hypothetical protein n=1 Tax=Tessaracoccus aquimaris TaxID=1332264 RepID=UPI0011AB541C
+--------------------------QAEALTALVeALAPTDPDRAEEVAATITSPYRQAG--ALTALVEA----------
+>UniRef90_UPI0011AB541C/242-285 [subseq from] hypothetical protein n=1 Tax=Tessaracoccus aquimaris TaxID=1332264 RepID=UPI0011AB541C
+--------------AATITSPYR---QAGALTALVeALAPTDPDRAEEVAATITDPYRQAG--------------------
+>UniRef90_UPI0011AB541C/285-324 [subseq from] hypothetical protein n=1 Tax=Tessaracoccus aquimaris TaxID=1332264 RepID=UPI0011AB541C
+----------------------------GALTALAkALAPTDPDRAEEVTATITDSYGQAGALAALAK-------------
+>UniRef90_UPI0011AB541C/347-409 [subseq from] hypothetical protein n=1 Tax=Tessaracoccus aquimaris TaxID=1332264 RepID=UPI0011AB541C
+----------------TI---TDSYEQAGALTALVeALAPTDPDRAEEVAATITDPDRQAGaLTALVEALaPTDPDRAEKVA-
+>UniRef90_UPI0011AB541C/387-424 [subseq from] hypothetical protein n=1 Tax=Tessaracoccus aquimaris TaxID=1332264 RepID=UPI0011AB541C
+---------------------------AGALTALVeALAPTDPDRAEKVAATITDPYRQAEALAA----------------
+>UniRef90_UPI0011AB541C/413-458 [subseq from] hypothetical protein n=1 Tax=Tessaracoccus aquimaris TaxID=1332264 RepID=UPI0011AB541C
+------------------TD---PYRQAEALAALAkALAPTDPDRAEEVAATITDSYGQAGALAALA--------------
+>SRR3989339_698749/124-166 [subseq from] SRR3989339_698749
+-----DAFTAALLNVVPLKAAIDTQAEKDAFLAVFGIAVDSADYLEKL--------------------------------
+>SRR3989339_698749/1496-1542 [subseq from] SRR3989339_698749
+--PPPDAFTAALLNVVPLKAAIDTPAEKDAFLAVFGIAVDSADYLEKLF-------------------------------
+>SRR6185295_19360405/20-53 [subseq from] SRR6185295_19360405
+-------------------------------------KPDRAQPSRKVAAASASPTGRSHQEKLRLRVQAR---------
+>SRR6185295_19360405/113-147 [subseq from] SRR6185295_19360405
+------------------------------------CKPDRAQPSRKVAAASASPTGRSHQEKLRLRVQAR---------
+>SRR5215210_65762/25-66 [subseq from] SRR5215210_65762
+------------------------AVRQAAIEAVSGLLPDHPDLRNAVAAKLDDPYYAVRQAA-IEA-------------
+>SRR5215210_65762/60-97 [subseq from] SRR5215210_65762
+--------------------------RQAAIEAVSGLLPDHPDLRNAVAAKLDDPYYAVRQAAI----------------
+>SRR5215210_65762/93-132 [subseq from] SRR5215210_65762
+--------------------------RQAAIEAVSGLLPDHPDLRNAVAAKLDDPYYAVRQAA-IEA-------------
+>SRR5215210_65762/225-262 [subseq from] SRR5215210_65762
+--------------------------RQAAIEAVSGLLPDHPDLRSAVAAKLDDPYYAVRQAAI----------------
+>SRR5215210_65762/258-295 [subseq from] SRR5215210_65762
+--------------------------RQAAIQAVSGLLPDHPDLRTTVAAKLDDPNDAVRQAAI----------------
+>SRR5215210_65762/289-330 [subseq from] SRR5215210_65762
+------------------------AVRQAAIQAVSGLLPDHPDLRSAVAAKLDDPDNAVRWAAFQA--------------
+>SRR3954449_1823823/95-134 [subseq from] SRR3954449_1823823
+--------------------------------------PSHADQSAALIRWLSVEFNRQHFEIRHRPAEAGGGSAEPT--
+>SRR3954449_1823823/535-574 [subseq from] SRR3954449_1823823
+--------------------------------------PSHADQSAALIRWLSLEFDRQHYEIRYRPVDADGGSAEPT--
+>ERR1700761_1248991/140-187 [subseq from] ERR1700761_1248991
+------AVCSSLSKEGEAHQPTFTAARPQAKLPSLGVSPScHLDRSGEICSLLV---------------------------
+>ERR1700761_1248991/357-404 [subseq from] ERR1700761_1248991
+------AVCSSLSKEGEAHQPTFTAARPQAKLPSLGVSPScHLDQSGEICSLLV---------------------------

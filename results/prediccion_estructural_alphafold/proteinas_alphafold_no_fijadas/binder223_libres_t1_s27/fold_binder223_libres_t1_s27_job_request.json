@@ -1,0 +1,18 @@
+[{
+ "name": "binder223_libres_T1_s27",
+ "modelSeeds": [
+  "1507995797"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "SSKEALEIRKLLEMMGKVYMKDATRNEMEQIAELWNETVKHDDPSAEFNDILKDADSRAWFQSRMAEIEASNVSFVPIGV",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

@@ -1,0 +1,34 @@
+>query
+PSPEAKAFAEALKKNGTLYSPSATKEETEAFAKLLGEKVKYEDPSEAVRDILKDPKARQRFLEKIEEIEKSPFKAVPVKK
+>tr|A0A8S2L2C0|A0A8S2L2C0_9BILA/198-219 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS19572 PE=4 SV=1
+----AQAMAEALKRNSTLTSLSVRAN------------------------------------------------------
+>tr|A0A8S2L2C0|A0A8S2L2C0_9BILA/394-431 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS19572 PE=4 SV=1
+----TKAVAEALKINSTLASLSVRGnDMSDEGAKVLAEALKI---------------------------------------
+>tr|A0A8S2R797|A0A8S2R797_9BILA/90-127 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS30121 PE=4 SV=1
+----AKAIAEALKINSTLTSLDIgFNSISDEGAKAIGEALKI---------------------------------------
+>tr|A0A8S2R797|A0A8S2R797_9BILA/478-515 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS30121 PE=4 SV=1
+----CKAFAEALKVNSTLTSLNLLNnRISEEGAKAIAEALKI---------------------------------------
+>tr|A0A815X5K7|A0A815X5K7_9BILA/198-231 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS39365 PE=4 SV=1
+----AQAMAEALKRNSTLTSLSVRANRiSDEGAKAMAE-------------------------------------------
+>tr|A0A8S2UC46|A0A8S2UC46_9BILA/90-128 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=TMI583_LOCUS40291 PE=4 SV=1
+----AKAIAEALKINSTLTSLNiANSGISEEGAKAIGEALKIN--------------------------------------
+>tr|A0A8S2UC46|A0A8S2UC46_9BILA/313-348 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=TMI583_LOCUS40291 PE=4 SV=1
+----AKAIAEALKINSTLTSLNiANSSISEEGAKAIAEAL-----------------------------------------
+>tr|A0A8S2UC46|A0A8S2UC46_9BILA/341-376 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=TMI583_LOCUS40291 PE=4 SV=1
+----AKAIAEALKINSTLTSldianSSISKERAKAIAKAL---------------------------------------------
+>tr|A0A8S2UC46|A0A8S2UC46_9BILA/397-434 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=TMI583_LOCUS40291 PE=4 SV=1
+----CKAFAEALKVNSTLTGLNiANSSISEKGAKAIAEALKL---------------------------------------
+>tr|A0A814M8M0|A0A814M8M0_9BILA/90-128 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS17524 PE=4 SV=1
+----AKAIAEALKINSTLTSLNiANSGISEEGAKAIGEALKIN--------------------------------------
+>tr|A0A814M8M0|A0A814M8M0_9BILA/313-348 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS17524 PE=4 SV=1
+----AKAIAEALKINSTLTSLNiANSSISEEGAKAIAEAL-----------------------------------------
+>tr|A0A814M8M0|A0A814M8M0_9BILA/341-376 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS17524 PE=4 SV=1
+----AKAIAEALKINSTLTSldianSSISKERAKAIAKAL---------------------------------------------
+>tr|A0A814M8M0|A0A814M8M0_9BILA/397-434 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS17524 PE=4 SV=1
+----CKAFAEALKVNSTLTGLNiANSSISEKGAKAIAEALKL---------------------------------------
+>tr|A0A8S2ETK4|A0A8S2ETK4_9BILA/70-90 [subseq from] Uncharacterized protein (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS27179 PE=4 SV=1
+-SEEAKAIAEALKTNQTLTTLS----------------------------------------------------------
+>tr|A0A8S2RH40|A0A8S2RH40_9BILA/85-123 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=TMI583_LOCUS31675 PE=4 SV=1
+----AKAIADALKINSTLTTLNiANNGISEEDAKAIGEALKIN--------------------------------------
+>tr|A0A8S2RH40|A0A8S2RH40_9BILA/477-514 [subseq from] Uncharacterized protein OS=Didymodactylos carnosus OX=1234261 GN=TMI583_LOCUS31675 PE=4 SV=1
+----AKAIAEALKTNSALTSLNMTYSSiSEEGAKALAEGLKM---------------------------------------

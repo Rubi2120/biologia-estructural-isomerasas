@@ -1,0 +1,34 @@
+>query
+PSPAAQALAAALKAAGDLEAPAATPEQTAAVCALLGREPRHADPSAELRAWLADPAARARWLARIAALEALPFTFRPVAR
+>UniRef90_UPI0018C382CD/79-109 [subseq from] tetratricopeptide repeat protein n=1 Tax=Planomonospora sp. ID91781 TaxID=2738135 RepID=UPI0018C382CD
+------NLASAYRAAGDLNRAIALFEQTLTSCErVLG--------------------------------------------
+>UniRef90_UPI0018C382CD/331-362 [subseq from] tetratricopeptide repeat protein n=1 Tax=Planomonospora sp. ID91781 TaxID=2738135 RepID=UPI0018C382CD
+------NLASTYRAAGDLDRAIALFEQTLTSCErVLGK-------------------------------------------
+>UniRef90_A0A2I0HR89/13-48 [subseq from] Uncharacterized protein (Fragment) n=1 Tax=Punica granatum TaxID=22663 RepID=A0A2I0HR89_PUNGR
+--------------------------------------------SANLRCWkvnshgLADPArlqeARARWLGELAVLES----------
+>UniRef90_A0AAV7N768/211-239 [subseq from] Uncharacterized protein n=1 Tax=Pleurodeles waltl TaxID=8319 RepID=A0AAV7N768_PLEWA
+----------------------------------------SMDPSAGFRAWLNLPDSEHGLICRIQSMD-----------
+>ERR1019366_7293363/353-384 [subseq from] ERR1019366_7293363
+----------------------------HAVCAVGGAAQPHGDLQQQQRQWLDDGAGRQR--------------------
+>ERR1019366_7293363/1463-1494 [subseq from] ERR1019366_7293363
+----------------------------HAVCAVDGAAQPHGDLQQQQRQWLDDGAGRQR--------------------
+>ERR1019366_7293363/1908-1938 [subseq from] ERR1019366_7293363
+-----------------------------AVCAVDGAAQPHGDLQQQQRQWLDDGAGRQR--------------------
+>ERR1019366_7293363/1979-2012 [subseq from] ERR1019366_7293363
+--------------------------RRHAVCAVDGAAQPHGDLQQQQRQWLDDGAGRQR--------------------
+>SRR3990167_3731937/9-37 [subseq from] SRR3990167_3731937
+-------------------------------------------RSARMKALNADPAFKAKTSARMKALNADP--------
+>SRR3990167_3731937/41-71 [subseq from] SRR3990167_3731937
+-----------------------------------------AKTSARMKALHADPAFKAKTSARMKALNADP--------
+>SRR3990167_3731937/65-105 [subseq from] SRR3990167_3731937
+--------------------------------KALNADPAfKAKTSARMKALNADPAFKAKTSARMKALNADP--------
+>SRR3990167_3731937/109-145 [subseq from] SRR3990167_3731937
+-----------------------------------------AKTSARMKALHADPAFKAKTSARMKALHADP-AFNPLA-
+>SRR6185312_5012110/7-65 [subseq from] SRR6185312_5012110
+---------AAARAVGGMGAAAATPEFLDAIAGLLRdTDPHVRDAAARAVGGMGAAAATPEFLDAIAG-------------
+>SRR6185312_5012110/42-74 [subseq from] SRR6185312_5012110
+---------AAARAVGGMGAAAATPEFLDAIAGLLRDTDPHV--------------------------------------
+>SRR6185312_5012110/112-143 [subseq from] SRR6185312_5012110
+---------AAARAVGGMGAAAATPEFLDAIAGLLRDTDPH---------------------------------------
+>SRR6185312_5012110/287-346 [subseq from] SRR6185312_5012110
+---------AAARAVGGMGAAAATPEFLDAIAGLLRdTDPHVRDAAARAVGGMGAAAATPEFLDAIAGL------------

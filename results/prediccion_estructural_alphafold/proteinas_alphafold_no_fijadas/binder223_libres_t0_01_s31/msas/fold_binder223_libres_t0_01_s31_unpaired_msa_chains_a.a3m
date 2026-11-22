@@ -1,0 +1,56 @@
+>query
+PSPEAKAFAEALKKNGTLYSPSATKEETEAFAKLLGEKVKYEDPSEAVRDILKDPKARQRFLEKIEEIEKSPFKAVPVKK
+>UniRef90_A0A8S2R797/90-127 [subseq from] Uncharacterized protein n=1 Tax=Didymodactylos carnosus TaxID=1234261 RepID=A0A8S2R797_9BILA
+----AKAIAEALKINSTLTSLDIgFNSISDEGAKAIGEALKI---------------------------------------
+>UniRef90_A0A8S2R797/478-515 [subseq from] Uncharacterized protein n=1 Tax=Didymodactylos carnosus TaxID=1234261 RepID=A0A8S2R797_9BILA
+----CKAFAEALKVNSTLTSLNLLNnRISEEGAKAIAEALKI---------------------------------------
+>UniRef90_A0A815X5K7/198-231 [subseq from] Uncharacterized protein n=2 Tax=Didymodactylos carnosus TaxID=1234261 RepID=A0A815X5K7_9BILA
+----AQAMAEALKRNSTLTSLSVRANRiSDEGAKAMAE-------------------------------------------
+>UniRef90_A0A814M8M0/90-128 [subseq from] Uncharacterized protein n=2 Tax=Didymodactylos carnosus TaxID=1234261 RepID=A0A814M8M0_9BILA
+----AKAIAEALKINSTLTSLNiANSGISEEGAKAIGEALKIN--------------------------------------
+>UniRef90_A0A814M8M0/313-348 [subseq from] Uncharacterized protein n=2 Tax=Didymodactylos carnosus TaxID=1234261 RepID=A0A814M8M0_9BILA
+----AKAIAEALKINSTLTSLNiANSSISEEGAKAIAEAL-----------------------------------------
+>UniRef90_A0A814M8M0/341-376 [subseq from] Uncharacterized protein n=2 Tax=Didymodactylos carnosus TaxID=1234261 RepID=A0A814M8M0_9BILA
+----AKAIAEALKINSTLTSldianSSISKERAKAIAKAL---------------------------------------------
+>UniRef90_A0A814M8M0/397-434 [subseq from] Uncharacterized protein n=2 Tax=Didymodactylos carnosus TaxID=1234261 RepID=A0A814M8M0_9BILA
+----CKAFAEALKVNSTLTGLNiANSSISEKGAKAIAEALKL---------------------------------------
+>UniRef90_A0A8S2ETK4/70-90 [subseq from] Uncharacterized protein (Fragment) n=1 Tax=Didymodactylos carnosus TaxID=1234261 RepID=A0A8S2ETK4_9BILA
+-SEEAKAIAEALKTNQTLTTLS----------------------------------------------------------
+>UniRef90_A0A8S2RH40/85-123 [subseq from] Uncharacterized protein n=1 Tax=Didymodactylos carnosus TaxID=1234261 RepID=A0A8S2RH40_9BILA
+----AKAIADALKINSTLTTLNiANNGISEEDAKAIGEALKIN--------------------------------------
+>UniRef90_A0A8S2RH40/477-514 [subseq from] Uncharacterized protein n=1 Tax=Didymodactylos carnosus TaxID=1234261 RepID=A0A8S2RH40_9BILA
+----AKAIAEALKTNSALTSLNMTYSSiSEEGAKALAEGLKM---------------------------------------
+>SRR5580704_14956277/4-40 [subseq from] SRR5580704_14956277
+---------------------------SEASRKALADPAVRQRMSEASRKALADPAVRQRMSEA----------------
+>SRR5580704_14956277/44-90 [subseq from] SRR5580704_14956277
+----------------ALADPAVRQRMSEASRKALADPAVRQRMSEASRKALADPAVRQRMSE-----------------
+>SRR5580704_14956277/79-124 [subseq from] SRR5580704_14956277
+-----------------LADPAVRQRMSEASRKALADPAVRQRMSEASRKALADPAVRQRMSE-----------------
+>SRR5580704_14956277/96-142 [subseq from] SRR5580704_14956277
+-----------------LADPAVRQRMSEASRKALADPAVRQRMSEASRKALADPAVRQRMSEA----------------
+>SRR5580704_14956277/129-176 [subseq from] SRR5580704_14956277
+----------------ALADPAVRQRMSEASRKAWADPAVRQRMSEASRKALADPAVRQRMSEA----------------
+>SRR5580704_14956277/150-192 [subseq from] SRR5580704_14956277
+--------------------PAVRQRMSEASRKALADPAVRQRMSEASRKAWADPAVRQRMSE-----------------
+>SRR5580704_14956277/183-227 [subseq from] SRR5580704_14956277
+-------------------DPAVRQRMSEASRKALADPAVRQRMSEASRKALADPAVRQRMSEA----------------
+>SRR5580704_14956277/197-244 [subseq from] SRR5580704_14956277
+----------------ALADPAVRQRMSEASRKALADPAVRQRMSEASRKALADPAVRQRMSEA----------------
+>SRR5580704_14956277/232-278 [subseq from] SRR5580704_14956277
+-----------------LADPAVRQRMSEASRKAWADPAVRQRMSEASRKALADPAVRQRMSEA----------------
+>SRR5580704_14956277/350-396 [subseq from] SRR5580704_14956277
+----------------ALADPAVRQRMSEASRKALADPAVRQRMSEASRKAWADPAVRQRMSE-----------------
+>ERR1700683_2065840/79-109 [subseq from] ERR1700683_2065840
+--------------------------------------------AAAVRETWKDPAFRARHAAAVRETNKAPWKD-----
+>SRR6476620_127591/21-59 [subseq from] SRR6476620_127591
+----GKALGESLKVNGTLQQLNLQSNEIGAeGGKALGESLKVN--------------------------------------
+>SRR6476620_127591/78-115 [subseq from] SRR6476620_127591
+-----KALGESLKVNGTLQQLNLQSNEIGAeGGKALGESLKVN--------------------------------------
+>SRR6476620_127591/190-225 [subseq from] SRR6476620_127591
+-----KALGESLKVNGTLQQLNLQSNEIGAeGGKALGESLK----------------------------------------
+>SRR6476620_127591/217-254 [subseq from] SRR6476620_127591
+----GKALGESLKVNGTLQQLNLQSNEIGAeGGKALGESLKV---------------------------------------
+>SRR5262245_9606013/78-112 [subseq from] SRR5262245_9606013
+----------------TNLAPNATRAELEAALRTIAFSSASEDPTDAVRTL-----------------------------
+>SRR5262245_9606013/334-368 [subseq from] SRR5262245_9606013
+----------------TKLAPNATRAELEAALRTIAFSSASEDPTDAVRTL-----------------------------
