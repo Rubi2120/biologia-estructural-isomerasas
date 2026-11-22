@@ -1,0 +1,36 @@
+>query
+LSPAAQAFLAALEAAGDLYSPAATPEQTAAVGALLGVEVTSPDPSEALRVAKKDPAARAAFRARAAEFEALPFFAVPVKE
+>UniRef90_A0AAD8C315/9-29 [subseq from] Mucin-like domain-containing protein n=1 Tax=Biomphalaria pfeifferi TaxID=112525 RepID=A0AAD8C315_BIOPF
+-----------------------------------GIEMRKKDPSDGIEMRKKDPS------------------------
+>UniRef90_A0AAD8C315/31-51 [subseq from] Mucin-like domain-containing protein n=1 Tax=Biomphalaria pfeifferi TaxID=112525 RepID=A0AAD8C315_BIOPF
+-----------------------------------GIEMRKNDPSDGIEMRKKDPS------------------------
+>UniRef90_A0AAD8C315/53-80 [subseq from] Mucin-like domain-containing protein n=1 Tax=Biomphalaria pfeifferi TaxID=112525 RepID=A0AAD8C315_BIOPF
+-----------------------------------GIEMRKKDPSNGIEMRKKDPSNRIEMRK-----------------
+>UniRef90_A0AAD8C315/108-134 [subseq from] Mucin-like domain-containing protein n=1 Tax=Biomphalaria pfeifferi TaxID=112525 RepID=A0AAD8C315_BIOPF
+-----------------------------------GIEMRKKDPSNGIEMRKKDPSNRIKMR------------------
+>UniRef90_A0AAD8C3P3/6-30 [subseq from] Mucin-like domain-containing protein n=1 Tax=Biomphalaria pfeifferi TaxID=112525 RepID=A0AAD8C3P3_BIOPF
+-----------------------------------GIEMRKKDPSDGIEMRKKYPSNGIE--------------------
+>UniRef90_A0AAD8C3P3/50-73 [subseq from] Mucin-like domain-containing protein n=1 Tax=Biomphalaria pfeifferi TaxID=112525 RepID=A0AAD8C3P3_BIOPF
+-----------------------------------GIEMRKMDPSNGIEMRKKDPSNGI---------------------
+>UniRef90_A0AAD8C3P3/83-107 [subseq from] Mucin-like domain-containing protein n=1 Tax=Biomphalaria pfeifferi TaxID=112525 RepID=A0AAD8C3P3_BIOPF
+-----------------------------------GIEMRKMDPSNGIEMRKKDPSDGIE--------------------
+>UniRef90_A0AAD8C3P3/138-164 [subseq from] Mucin-like domain-containing protein n=1 Tax=Biomphalaria pfeifferi TaxID=112525 RepID=A0AAD8C3P3_BIOPF
+-----------------------------------GIEMRKKDPSNGIEMCKKDPSNGIEMR------------------
+>UniRef90_A0AAD8C3T1/10-32 [subseq from] Mucin-like domain-containing protein n=1 Tax=Biomphalaria pfeifferi TaxID=112525 RepID=A0AAD8C3T1_BIOPF
+------------------------------------IEMRKNDPSDGIEMRKKDPSNRI---------------------
+>UniRef90_A0AAD8C3T1/42-66 [subseq from] Mucin-like domain-containing protein n=1 Tax=Biomphalaria pfeifferi TaxID=112525 RepID=A0AAD8C3T1_BIOPF
+-----------------------------------GIEMRKNDPSDGIEMSKKDPSDGIE--------------------
+>UniRef90_A0AAD8C3T1/75-96 [subseq from] Mucin-like domain-containing protein n=1 Tax=Biomphalaria pfeifferi TaxID=112525 RepID=A0AAD8C3T1_BIOPF
+-----------------------------------GIEMSKNDPSDGIEMRKKDPSN-----------------------
+>SRR3990170_4321970/50-92 [subseq from] SRR3990170_4321970
+-----EKFIAALLKVEPLKTAIDTPEEKAAFNAVFGVAVGSADYLEKL--------------------------------
+>SRR3990170_4321970/655-697 [subseq from] SRR3990170_4321970
+-----EKFIAALLKVEPLKTAIDTPEEKAAFNAVFGVAVGSADNLEKL--------------------------------
+>SRR3990170_4321970/985-1027 [subseq from] SRR3990170_4321970
+-----EKFIAPLLKVEPLKTAIDTPEEKAAFNAVFGVAVGSADYLEKL--------------------------------
+>SRR3990170_4321970/1041-1082 [subseq from] SRR3990170_4321970
+------KLIAALLKVEPLKTAIDTPEEKAAFNAVFGVAVGSADYLEKL--------------------------------
+>SRR6516165_5833183/77-113 [subseq from] SRR6516165_5833183
+--------------------------ASGPSGAIVTYEVTATDPDDAVASLKCTPASGSTFAL-----------------
+>SRR6516165_5833183/1889-1927 [subseq from] SRR6516165_5833183
+-----------------------TVSATGPSGAMVSYEVTATDPDDAVASLKCTPASGSTFP------------------

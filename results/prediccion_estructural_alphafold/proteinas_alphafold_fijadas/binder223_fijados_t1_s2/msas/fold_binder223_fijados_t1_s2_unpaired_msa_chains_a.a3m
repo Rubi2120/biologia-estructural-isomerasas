@@ -1,0 +1,72 @@
+>query
+PNPNAYDTFTALQDTNDLISNFVTPVDARLYFSVVGRTPTSTNPSANIGVLKKDQSGRRTWFSCIANFEKATFFHQAIDY
+>UniRef90_G7WKC7/190-215 [subseq from] N-terminal domain intergin-like repeats and c-terminal-cell wall-associated hydrolase domain protein n=1 Tax=Methanothrix harundinacea (strain 6Ac) TaxID=1110509 RepID=G7WKC7_METH6
+----------------------------------------ATDGSGNIRLLKASDGWRRTWSSIVP--------------
+>UniRef90_G7WKC7/360-385 [subseq from] N-terminal domain intergin-like repeats and c-terminal-cell wall-associated hydrolase domain protein n=1 Tax=Methanothrix harundinacea (strain 6Ac) TaxID=1110509 RepID=G7WKC7_METH6
+---------------------------------------YSTDGSGNIQLLKSSSGWRRTWSIIV---------------
+>UniRef90_G7WKC7/411-436 [subseq from] N-terminal domain intergin-like repeats and c-terminal-cell wall-associated hydrolase domain protein n=1 Tax=Methanothrix harundinacea (strain 6Ac) TaxID=1110509 RepID=G7WKC7_METH6
+----------------------------------------ATDGSGNIRLLKASDGWRRTWSAIVP--------------
+>UniRef90_G7WKC7/511-536 [subseq from] N-terminal domain intergin-like repeats and c-terminal-cell wall-associated hydrolase domain protein n=1 Tax=Methanothrix harundinacea (strain 6Ac) TaxID=1110509 RepID=G7WKC7_METH6
+----------------------------------------ATDGSGNIRLLKSHSGWRRTWSSIVP--------------
+>UniRef90_A0AAN6YV59/219-250 [subseq from] Carbohydrate-binding module family 50 protein n=1 Tax=Canariomyces notabilis TaxID=2074819 RepID=A0AAN6YV59_9PEZI
+--------------------------DAYVCVSVIGHTPTPTNPGNGIATPSPTQPGM----------------------
+>UniRef90_A0AAN6YV59/295-327 [subseq from] Carbohydrate-binding module family 50 protein n=1 Tax=Canariomyces notabilis TaxID=2074819 RepID=A0AAN6YV59_9PEZI
+-------------------------ADAYVCVSIVGHTPTPTNPGNGIATPSPTQPGM----------------------
+>UniRef90_A0AAN6YV59/374-403 [subseq from] Carbohydrate-binding module family 50 protein n=1 Tax=Canariomyces notabilis TaxID=2074819 RepID=A0AAN6YV59_9PEZI
+---------------------------AYVCVSIIGHTPTPTNPGNGIATPSPTQPG-----------------------
+>UniRef90_A0AAN6YV59/454-481 [subseq from] Carbohydrate-binding module family 50 protein n=1 Tax=Canariomyces notabilis TaxID=2074819 RepID=A0AAN6YV59_9PEZI
+-----------------------------ICVSIIGHTPTPTNPGNGISTPSPIQDG-----------------------
+>SRR5580692_6088844/21-55 [subseq from] SRR5580692_6088844
+--------------------------------ALLAKDPTSTSPLIGLGHLKRRQGDRPE---ALAAFEA----------
+>SRR5580692_6088844/88-123 [subseq from] SRR5580692_6088844
+-------------------------------RALLAKDPTSTSPLIGLGHLKRRQGDRPE---ALAAFEA----------
+>SRR5580692_6088844/564-599 [subseq from] SRR5580692_6088844
+-------------------------------RALLAKDPTSTSPLIGLGHLKRRQGDRPA---ALAAFEA----------
+>SRR5579872_2554700/17-72 [subseq from] SRR5579872_2554700
+----------------DAGGNTVTS-DARtVTLSITSGTPTSGGPGTLSGCTQAEASGVITFSGCKINTAGTG--------
+>SRR5579872_2554700/1087-1138 [subseq from] SRR5579872_2554700
+----------------DAGGNTVTSDASTVTLSITSGTPTSGGPGTLSGCTQAEASGVITFSGCKINT------------
+>SRR5580658_2177157/343-374 [subseq from] SRR5580658_2177157
+-----------------------------------ARTPCDLEPSSRQPVISKEHGHLAIWSRCLAN-------------
+>SRR5580658_2177157/398-430 [subseq from] SRR5580658_2177157
+----------------------------------GARTPCDLEPLSRQPVISKEHGHLAIWSRCLAN-------------
+>SRR3954465_6555074/923-973 [subseq from] SRR3954465_6555074
+----------GLNDATQ--TETVNPaLAAKLVFTTAAQTLTAGGTSGTVPVQRQDQFGNPTTL------------------
+>MGYP001465020713/39-93 [subseq from] FL=0
+----------------STLPDYSAPVISNVTAIGIGKTGTSTHGDKNVGLEIRDNAGGQVWNSIFTEFSKS---------
+>MGYP001465020713/505-565 [subseq from] FL=0
+----------------STLPDYSAPVISNVTAIGIGKTGTSTHGDKNVGLEIRDNAGGQVWNSIFTEFSKSIMDVEA---
+>MGYP001465020713/965-1022 [subseq from] FL=0
+-------------DTSTL-PSYSNPIISNVTAIGIGKDGTSKHEDKNIGLEIRDNAGGQVWNSIFTEFAKSI--------
+>MGYP001334981056/282-338 [subseq from] FL=0
+----------------STLPHWSAPVISNVTAIGIGKTGTSVHEDDNVGLEIRDNAGGQVWHSIFTEFAKSIM-------
+>MGYP001334981056/749-806 [subseq from] FL=0
+-------------DTST-LPDYSAPVISNVTAIGIGKTGTSAHEDNNIGLEIRDNAGGQVWNSIFTEFAKSI--------
+>MGYP000916986464/6-42 [subseq from] FL=0
+-----------------------------FYDPVAGQGEIyTTDGSGNIALLKASSGWRRTWSMIV---------------
+>MGYP000916986464/55-93 [subseq from] FL=0
+----------------------------LFYDPVAGQGEIyTTDGSGNIALLKASSGWRRTWSAIVP--------------
+>MGYP000916986464/105-142 [subseq from] FL=0
+----------------------------LFYDPVAGQGEIyTTDGSGNIALLKASSGWRRTWSMIV---------------
+>MGYP000916986464/168-192 [subseq from] FL=0
+----------------------------------------TTDGSGNIGFLSGSDGWRRTWSIIV---------------
+>MGYP001451424603/138-193 [subseq from] FL=0
+----------------STLPHWSAPVISNVTAIGIGKTGTSVHEDDNVGLEIRDNAGGQVWNSIFTEFAKSI--------
+>MGYP001456679061/37-74 [subseq from] FL=0
+-------------------------TDDEGY-IVVGSIGSISNYENDIYLIKTDQNGQELWSQT----------------
+>MGYP001456679061/94-126 [subseq from] FL=0
+-------------------------------YIVVGSSTSYGNGENDVYLIKTDQDGQELWSQT----------------
+>MGYP001456679061/146-178 [subseq from] FL=0
+------------------------------Y-IIVGRTSSYGNGENDIYLIKTDQNGQELWSQT----------------
+>MGYP001410888689/45-69 [subseq from] FL=0
+----------------------------------------TTDGSGNIGLLKSYDGWRRTWSVIV---------------
+>MGYP001410888689/94-119 [subseq from] FL=0
+---------------------------------------YSTDGSGNIRLLKSNDGWRRTWSVIV---------------
+>MGYP001410888689/129-169 [subseq from] FL=0
+-------------------------TDLLFYDPTTGQGELyTTDGSGNIRLLKSYSGWRRTWSMIL---------------
+>MGYP001410888689/194-219 [subseq from] FL=0
+---------------------------------------YTTDSSGNIRLLKSYSGWRRTWSVIV---------------
+>MGYP002049877424/281-335 [subseq from] FL=0
+----------------STLPHWSAPVISNVTAIGIGKTGTSTHTDKNVGLEIRDNAGGQVWNSIFTEFSKS---------
+>MGYP002049877424/746-801 [subseq from] FL=0
+---------------TSTLPDYSAPVISNVTAIGIGKTGTSTHADKNVGLEIRDNAGGQVWNSIFTEFSKS---------

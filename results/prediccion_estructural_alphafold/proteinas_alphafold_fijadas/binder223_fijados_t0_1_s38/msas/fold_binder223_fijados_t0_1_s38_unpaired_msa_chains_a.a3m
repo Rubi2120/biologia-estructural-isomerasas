@@ -1,0 +1,80 @@
+>query
+PSPAARAFAEALKAAGDLFSPAATPEQTRAVAALLGREPTHADPSEELRVIKADPEARARMLARIPEFEALPFFAVPVKR
+>UniRef90_A0A238KF46/18-50 [subseq from] Photosystem I assembly protein Ycf3 n=2 Tax=Actibacterium lipolyticum TaxID=1524263 RepID=A0A238KF46_9RHOB
+--AAAKAYAESLEMRRDLAERLKTPESLRDLSVSL---------------------------------------------
+>UniRef90_A0A238KF46/65-97 [subseq from] Photosystem I assembly protein Ycf3 n=2 Tax=Actibacterium lipolyticum TaxID=1524263 RepID=A0A238KF46_9RHOB
+--AAAKAYAESLEVARDLAERLKTPESLRDLSVSL---------------------------------------------
+>UniRef90_A0A238KF46/159-191 [subseq from] Photosystem I assembly protein Ycf3 n=2 Tax=Actibacterium lipolyticum TaxID=1524263 RepID=A0A238KF46_9RHOB
+--AAAEAYAESLEVARDLAERLKTPESLRDLSVSL---------------------------------------------
+>UniRef90_A0A238KF46/206-238 [subseq from] Photosystem I assembly protein Ycf3 n=2 Tax=Actibacterium lipolyticum TaxID=1524263 RepID=A0A238KF46_9RHOB
+--AAAKAYAESLEVRRDLAERLKTPESLRDLSVSL---------------------------------------------
+>UniRef90_A0A238KF46/253-284 [subseq from] Photosystem I assembly protein Ycf3 n=2 Tax=Actibacterium lipolyticum TaxID=1524263 RepID=A0A238KF46_9RHOB
+--AAAKAYAESLEVRRDLAERLKTPESLRDLSVS----------------------------------------------
+>UniRef90_A0A238KF46/394-426 [subseq from] Photosystem I assembly protein Ycf3 n=2 Tax=Actibacterium lipolyticum TaxID=1524263 RepID=A0A238KF46_9RHOB
+--AAAKAYAESLEVARDLAERLKTPGSLRDLSVSL---------------------------------------------
+>UniRef90_A0A238KF46/441-473 [subseq from] Photosystem I assembly protein Ycf3 n=2 Tax=Actibacterium lipolyticum TaxID=1524263 RepID=A0A238KF46_9RHOB
+--AATKAYGESLEVARDLVERLKTPESLRDLCVAL---------------------------------------------
+>UniRef90_A0AAV2KJ88/12-42 [subseq from] Uncharacterized protein n=1 Tax=Knipowitschia caucasica TaxID=637954 RepID=A0AAV2KJ88_KNICA
+--------------------------------------PPLKDPPSESRVLKPDPPSESRVLKPDPPSE-----------
+>UniRef90_A0AAV2KJ88/38-64 [subseq from] Uncharacterized protein n=1 Tax=Knipowitschia caucasica TaxID=637954 RepID=A0AAV2KJ88_KNICA
+------------------------------------------DPPSESRVLKPDPPSESRVLKPDPPSE-----------
+>UniRef90_A0AAV2KJ88/49-76 [subseq from] Uncharacterized protein n=1 Tax=Knipowitschia caucasica TaxID=637954 RepID=A0AAV2KJ88_KNICA
+------------------------------------------DPPSESRVLKPDPPSESRVLKPDPPSES----------
+>UniRef90_A0AAV2KJ88/72-98 [subseq from] Uncharacterized protein n=1 Tax=Knipowitschia caucasica TaxID=637954 RepID=A0AAV2KJ88_KNICA
+-------------------------------------------PPSESRVLKPDPPSESRVLKPDPPSES----------
+>UniRef90_A0AAV2KJ88/140-164 [subseq from] Uncharacterized protein n=1 Tax=Knipowitschia caucasica TaxID=637954 RepID=A0AAV2KJ88_KNICA
+---------------------------------------------SESRVLKPDPPSESRVLKPDPPSES----------
+>UniRef90_A0AAV2KJ88/235-261 [subseq from] Uncharacterized protein n=1 Tax=Knipowitschia caucasica TaxID=637954 RepID=A0AAV2KJ88_KNICA
+-----------------------------------------PDPPSESRVLKPDPPSESRVLKPDPPS------------
+>UniRef90_A0AAV2KJ88/246-273 [subseq from] Uncharacterized protein n=1 Tax=Knipowitschia caucasica TaxID=637954 RepID=A0AAV2KJ88_KNICA
+-----------------------------------------PDPPSESRVLKPDPPSESRVLKPDPPSE-----------
+>UniRef90_A0AAV2KJ88/312-337 [subseq from] Uncharacterized protein n=1 Tax=Knipowitschia caucasica TaxID=637954 RepID=A0AAV2KJ88_KNICA
+-----------------------------------------PDPPSESRVLKPDPPSESRVLKPDPP-------------
+>UniRef90_A0AAV2KJ88/334-358 [subseq from] Uncharacterized protein n=1 Tax=Knipowitschia caucasica TaxID=637954 RepID=A0AAV2KJ88_KNICA
+-----------------------------------------PDPPSESRVLKPDPPSESRVLKPDP--------------
+>SRR5579862_754361/49-83 [subseq from] SRR5579862_754361
+----------------------------------------KAKQRDAMRALNADPEFKAKNAARLRALHADPEFK-----
+>SRR5579862_754361/217-270 [subseq from] SRR5579862_754361
+---------------------ELKAKQRDALRALNADPEFKAKQRDAMRALNADPEFKAKNAARLRALHADPEFK-----
+>SRR5579862_754361/340-388 [subseq from] SRR5579862_754361
+-------------------------KQRDAMRALNADPEFKAKNAARLRALHADPEFKAKNAARLRALNADPEF------
+>SRR5579862_754361/408-456 [subseq from] SRR5579862_754361
+-------------------------KQRDALRALNADPEFKAKQRDAMRALNADPEFKAKNAARLRALHADPEF------
+>SRR5579862_754361/474-507 [subseq from] SRR5579862_754361
+----------------------------------------KAKQRDAMRALNADPEFKAKNAARLRALHADPEF------
+>SRR5579862_754361/579-626 [subseq from] SRR5579862_754361
+--------------------------QRDAMRALNADPEFKAKNAARLRALHADPEFKAKNAARLRALNADPEF------
+>SRR5579862_754361/644-695 [subseq from] SRR5579862_754361
+-----------------------KAKQRDALRALNADPEFKAKQRDAMRALNADPEFKAKNAARLRALHADPEFK-----
+>SRR5579862_754361/831-881 [subseq from] SRR5579862_754361
+-----------------------KAKQRDALRALNADPEFKAKQRDAMRALNADPEFKAKNAARLRALHADPEF------
+>SRR5579862_754361/989-1018 [subseq from] SRR5579862_754361
+---------------------------------------------ARLRALNADPEFKAKNAARLRALNADPEFK-----
+>SRR5579862_754361/1034-1069 [subseq from] SRR5579862_754361
+---------------------------------------FKAKQRDAMRALNADPEFKAKNAARLRALHADPEFK-----
+>SRR6201987_32473/433-455 [subseq from] SRR6201987_32473
+------LYADALKAGGDLLMRSDVPEQGH---------------------------------------------------
+>SRR5271168_2741538/89-149 [subseq from] SRR5271168_2741538
+--------------NNSLLYYHATPGSKWDVATVAGDGTTFSGP--EIAVRKADPAGEADVVAEGPNNSLLYYHATP---
+>SRR5271168_2741538/1297-1349 [subseq from] SRR5271168_2741538
+----------------------ATPGSKWDVATVAGDGTTFSGP--EIAVRKADPAGEADVVAEGPNNSLLYYHATP---
+>SRR5712691_11307938/96-116 [subseq from] SRR5712691_11307938
+------GFAGAVRALGDLRGPGARPEI-----------------------------------------------------
+>SRR5712691_11307938/246-265 [subseq from] SRR5712691_11307938
+------GFAGAVRALGDLRGPGARPE------------------------------------------------------
+>SRR5580658_7510640/22-57 [subseq from] SRR5580658_7510640
+-----------------------------------------SPPSSDSRIVPASPTAASRLPSPVPNIDLMS-FSVPL--
+>SRR5580658_7510640/275-309 [subseq from] SRR5580658_7510640
+------------------------------------------PPSSDSRIVPASPTAASRLPSPVPNIDLMS-FSVPL--
+>SRR5678816_2665467/105-137 [subseq from] SRR5678816_2665467
+-------------AHGDLYM---QPSATRALAKGIQRKSEHADEREKYE-------------------------------
+>SRR5271165_2762293/751-770 [subseq from] SRR5271165_2762293
+------------GHAGEVFSVALTPDGTRAVS------------------------------------------------
+>SRR6187399_2392322/20-96 [subseq from] SRR6187399_2392322
+-----RSHHATRSGAGHLRSPATQAGRGRSLAgarSLASRDEvRRRSPAFPGHAGRSWPLARWRSLARIPRRGPAPFTCVPR--
+>SRR5579885_364301/107-148 [subseq from] SRR5579885_364301
+----------------------------------LNAEPEfKAKRSERMRQLNADPEFKAKHSERMRQLNADPEFK-----
+>SRR5579885_364301/155-185 [subseq from] SRR5579885_364301
+-------------------------------------------ARERMRQLNADPEFKAKRSERMRQLNADPEF------
+>SRR5579885_364301/210-241 [subseq from] SRR5579885_364301
+-------------------------------------------ARERMRQLNADPEFKAKRSERMRQLNADPEFK-----

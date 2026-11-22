@@ -1,0 +1,18 @@
+[{
+ "name": "binder223_fijados_T1_s16",
+ "modelSeeds": [
+  "1968539915"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "PSPEARTYQGNLKAAGTLESEHASMSATMRVAQLLGRPPVESDPTVELRVWKQSSSAQQAFIERIQQFEEAPFFARPARQ",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]
